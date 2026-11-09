@@ -2,6 +2,10 @@
 
 Dolly Parton in your terminal.
 
+![Color output of dolly.sh](docs/screenshot.png)
+
+*Color output of `dolly.sh` on a truecolor terminal (rendered from the script's own color data).*
+
 - `dolly.sh` renders a photo-based portrait. On a truecolor terminal it draws full-color
   half-block graphics; when piped, with `NO_COLOR` set, or with `--ascii`, it prints
   plain ASCII shading.
